@@ -4,8 +4,8 @@
 
 
 <p align="center">
-  <a href="docs/photo/demo.gif">
-    <img src="docs/photo/demo.gif" width="300" />
+  <a href="docs/photo/seeed-xiao-ble-sense.jpg">
+    <img src="docs/photo/seeed-xiao-ble-sense.jpg" width="300" />
   </a>
 </p>
 
