@@ -115,10 +115,15 @@ const unsigned long INACTIVITY_TIMEOUT = 30000; // Время автоотклю
 - При желании — питание от 5 В (powerbank, USB и т.д.) через выводы 5V/GND.
 
 <p align="center">
-  <img src="docs /photo/seed_bat.png" alt="Подключение аккумулятора" width="500" />
+  <a href="docs /photo/back-pinout-5.jpg">
+    <img src="docs /photo/back-pinout-5.jpg" width="400" />
+  </a>
+  <a href="docs /photo/seed_bat.png">
+    <img src="docs /photo/seed_bat.png" width="400" />
+  </a>
 </p>
 
-*(Рекомендую добавить фото подключения аккумулятора в папку docs/photo/ — будет нагляднее)*
+
 
 ---
 
