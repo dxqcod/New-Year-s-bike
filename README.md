@@ -9,9 +9,7 @@
   <a href="docs /photo/demo.gif">
     <img src="docs /photo/demo.gif" width="400" />
   </a>
-  <a href="docs /photo/seeed-xiao-ble-sense.jpg">
-    <img src="docs /photo/seeed-xiao-ble-sense.jpg" width="400" />
-  </a>
+ 
 </p>
 
  <i>Автоматические габаритные огни для велосипеда — включаются от движения, гаснут при остановке. Без кнопок!</i>
