@@ -6,8 +6,8 @@
 
 
 <p align="center">
-  <a href="docs /photo/pinout2.png">
-    <img src="docs /photo/pinout2.png" width="400" />
+  <a href="docs /photo/demo.gif">
+    <img src="docs /photo/demo.gif" width="400" />
   </a>
   <a href="docs /photo/seeed-xiao-ble-sense.jpg">
     <img src="docs /photo/seeed-xiao-ble-sense.jpg" width="400" />
