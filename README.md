@@ -10,6 +10,16 @@
   <i>Автоматические габаритные огни для велосипеда — включаются от движения, гаснут при остановке. Без кнопок!</i>
 </p>
 
+
+<p align="center">
+  <a href="docs /photo/pinout2.png">
+    <img src="docs /photo/pinout2.png" width="400" />
+  </a>
+  <a href="docs /photo/seeed-xiao-ble-sense.jpg">
+    <img src="docs /photo/seeed-xiao-ble-sense.jpg" width="400" />
+  </a>
+</p>
+
 ---
 
 ## 🎯 Идея проекта
