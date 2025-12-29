@@ -188,7 +188,7 @@ New-Year-s-bike/                  # корень репозитория
 Путь выглядит так:
 
 <p align="center">
-<img src="docs/photo/board.png" alt="Выбор платы в Arduino IDE" width="700" />
+<img src="docs /photo/board.png" alt="Выбор платы в Arduino IDE" width="700" />
 </p>
 
 *Важно: именно последняя строчка — "Seeed XIAO nRF52840 Sense" (не Plus и не просто nRF52840)!*
