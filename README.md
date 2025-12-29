@@ -191,7 +191,7 @@ New-Year-s-bike/                  # корень репозитория
 <img src="docs /photo/board.png" alt="Выбор платы в Arduino IDE" width="700" />
 </p>
 
-*Важно: именно последняя строчка — "Seeed XIAO nRF52840 Sense" (не Plus и не просто nRF52840)!*
+*Важно: именно  строчка — "Seeed XIAO nRF52840 Sense" (не Plus и не просто nRF52840)!*
 
 6. **Выбери порт**  
 Инструменты → Порт → выбери порт с названием **Seeed XIAO nRF52840 Sense** (или COM-порт)
