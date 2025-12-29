@@ -104,7 +104,18 @@ const unsigned long INACTIVITY_TIMEOUT = 30000; // Время автоотклю
   - Первая лента → Pin 3 (A1)  
   - Вторая лента → Pin 6 (A6)  
 - **Яркость:** фиксированная 150 из 255  
-  (меняется одной строкой в `setup()`: `strip1.setBrightness(150);`)  
+  (меняется одной строкой в `setup()`: `strip1.setBrightness(150);`)
+
+  </p>
+
+<p align="center">
+  <a href="docs /photo/pinout2.png">
+    <img src="docs /photo/pinout2.png" width="400" />
+  </a>
+  <a href="docs /photo/seeed-xiao-ble-sense.jpg">
+    <img src="docs /photo/seeed-xiao-ble-sense.jpg" width="400" />
+  </a>
+</p>
 
 **Питание:**  
 В проекте используется аккумулятор **18650**, подключённый напрямую к выводам **BAT+** и **BAT-** на плате XIAO.  
