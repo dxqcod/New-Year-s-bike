@@ -1,8 +1,8 @@
 # 🚨 Габаритные огни на адресуемых светодиодах
 
 <p align="center">
-  <a href="docs/photo/seeed-xiao-ble-sense.jpg">
-    <img src="docs/photo/seeed-xiao-ble-sense.jpg" alt="Seeed XIAO nRF52840 Sense" width="400" />
+  <a href="docs /photo/seeed-xiao-ble-sense.jpg">
+    <img src="docs /photo/seeed-xiao-ble-sense.jpg" alt="Seeed XIAO nRF52840 Sense" width="400" />
   </a>
 </p>
 
