@@ -115,9 +115,7 @@ const unsigned long INACTIVITY_TIMEOUT = 30000; // Время автоотклю
   <a href="docs /photo/back-pinout-5.jpg">
     <img src="docs /photo/back-pinout-5.jpg" width="400" />
   </a>
-  <a href="docs /photo/seed_bat.png">
-    <img src="docs /photo/seed_bat.png" width="300" />
-  </a>
+
 </p>
 
 
